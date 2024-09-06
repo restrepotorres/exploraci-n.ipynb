@@ -5,4 +5,4 @@ Nicolas Carmona Cardona. Ingenieria de sistemas. cc 1013336179
 
 Alejandro Herrera Mira. Ingenieria civil. cc 1000901844
 
-# Nota: Se debe tener subir el json generado por kaggle a el ambiente de colab 
+# Nota: Se debe subir el json generado por kaggle a el ambiente de colab 
